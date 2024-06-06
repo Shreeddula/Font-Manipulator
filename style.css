@@ -1,0 +1,46 @@
+.heading{
+    font-size: 56px;
+    width: 100%;
+    margin-top: 0px;
+    box-shadow: 5px 5px 5px grey;
+    background:linear-gradient(rgb(255, 255, 255),rgb(232, 237, 111));
+    color: whitesmoke;
+    padding: 20px;
+    font-family: "Edu TAS Beginner", cursive;
+    font-weight:800;
+    text-shadow: 3px 3px 3px black;
+}
+
+.note{
+    color: rgb(12, 11, 11);
+    font-size: 23px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: none;
+}
+
+.copy_right_footer{
+    position: fixed;
+    width: 100%;
+    bottom:0;
+    line-height: 3;
+    background-color: black;
+    color: whitesmoke;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+canvas{
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 20px;
+    border: white 5px solid;
+}
+
+body{
+    background-size: cover;
+    font-family: "Edu TAS Beginner", cursive;
+  font-optical-sizing: auto;
+  font-weight:600;
+  font-style: normal;
+}
+
+
